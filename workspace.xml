@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f32bf20-417b-4afb-a318-124cdf51c64e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hohyC0MJ2Pt8KX3ZMPxESFvymU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="kalahamain" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="kalaha.KalahaMain" />
+      <module name="Kalaha" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f32bf20-417b-4afb-a318-124cdf51c64e" name="Default Changelist" comment="" />
+      <created>1600683607339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600683607339</updated>
+      <workItem from="1600683608466" duration="2909000" />
+      <workItem from="1600716799265" duration="2545000" />
+      <workItem from="1600802142589" duration="5480000" />
+      <workItem from="1600936654298" duration="7132000" />
+      <workItem from="1600956039477" duration="1974000" />
+      <workItem from="1600966934859" duration="6935000" />
+      <workItem from="1601050211315" duration="143000" />
+      <workItem from="1601050792987" duration="396000" />
+      <workItem from="1601214565482" duration="1676000" />
+      <workItem from="1601286636740" duration="9839000" />
+      <workItem from="1601317589936" duration="10056000" />
+      <workItem from="1601335741545" duration="391000" />
+      <workItem from="1601372114864" duration="2968000" />
+      <workItem from="1601391351314" duration="1187000" />
+      <workItem from="1601454497962" duration="15755000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" width="814" height="729" key="#Intentions" timestamp="1601466237506">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" width="814" height="729" key="#Intentions/0.0.1536.824@0.0.1536.824" timestamp="1601466237506" />
+    <state x="520" y="236" key="#Notifications" timestamp="1600717026023">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="520" y="236" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1600717026023" />
+    <state x="223" y="67" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600683673208">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1600683673208" />
+    <state x="498" y="214" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1600683669708">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="214" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1600683669708" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1600716887435">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600716887435" />
+    <state x="647" y="310" key="Github.ShareDialog" timestamp="1600717062719">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="647" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1600717062719" />
+    <state width="1478" height="208" key="GridCell.Tab.0.bottom" timestamp="1603796873694">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603796873694" />
+    <state width="1478" height="208" key="GridCell.Tab.0.center" timestamp="1603796873694">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603796873694" />
+    <state width="1478" height="208" key="GridCell.Tab.0.left" timestamp="1603796873694">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603796873694" />
+    <state width="1478" height="208" key="GridCell.Tab.0.right" timestamp="1603796873694">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603796873694" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1601325542773">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1601325542773" />
+  </component>
+</project>
